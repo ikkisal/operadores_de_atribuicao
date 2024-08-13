@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\obj\Debug\net8.0\Operadores De Atribuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\obj\Debug\net8.0\Operadores De Atribuição.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\obj\Debug\net8.0\Operadores De Atribuição.AssemblyInfo.cs
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\obj\Debug\net8.0\Operadores De Atribuição.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\obj\Debug\net8.0\Operadores De Atribuição.sourcelink.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\bin\Debug\net8.0\Operadores De Atribuição.exe
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\bin\Debug\net8.0\Operadores De Atribuição.deps.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\bin\Debug\net8.0\Operadores De Atribuição.runtimeconfig.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\bin\Debug\net8.0\Operadores De Atribuição.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\bin\Debug\net8.0\Operadores De Atribuição.pdb
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\obj\Debug\net8.0\Operadores De Atribuição.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\obj\Debug\net8.0\refint\Operadores De Atribuição.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\obj\Debug\net8.0\Operadores De Atribuição.pdb
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\obj\Debug\net8.0\Operadores De Atribuição.genruntimeconfig.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Operadores De Atribuição\obj\Debug\net8.0\ref\Operadores De Atribuição.dll
